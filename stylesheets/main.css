@@ -1,0 +1,38 @@
+h1 {
+  border: 2px transparent;
+  padding: 10px;
+  color: whitesmoke;
+  font-size: x-large;
+}
+
+h2 {
+  font-size: larger;
+  border: 2px transparent;
+  padding-left: 38px;
+  padding-bottom: 25px;
+}
+
+p {
+  max-width: 1000px;
+  padding-left: 40px;
+}
+
+.header {
+  color: aliceblue;
+  size: 10px;
+  background-color: red;
+}
+
+.links {
+  padding-top: 20px;
+  background-color: dimgray;
+  color: aliceblue;
+  text-align: right;
+}
+
+.footer {
+  font-size: small;
+  background-color: dimgray;
+  color: white;
+  padding: 10px
+}
